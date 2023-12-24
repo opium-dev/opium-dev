@@ -10,8 +10,8 @@ I've been learning web development for 4 years starting with the basics HTML, CS
 *   🖥️  See my portfolio at [Opium.dev](http://opium.dev)
 *   ✉️  You can contact me at [opiumdev@icloud.com](mailto:opiumdev@icloud.com)
 *   🧠  I'm learning C++ and Reversing
-*   🤝  I'm open to collaborating on Game Cheats
-*   ⚡  I have a passion for cheating in games.
+*   🤝  I'm open to collaborating on Game Reversing
+*   ⚡  I have a passion for reversing games.
 
 ### Skills 
 <p align="left">
