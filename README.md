@@ -1,4 +1,4 @@
-Hi 👋 My name is opiumdev.
+Hi. I'm OpiumDev
 ==========================
 
 Web Developer & C++ Developer
