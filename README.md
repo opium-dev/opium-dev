@@ -18,9 +18,8 @@ I've been learning web development for 4 years starting with the basics HTML, CS
                     </p>
                     
 ### Socials
-                  
-                  
-                <p align="left">
+
+<p align="left">
                       <a href="https://discord.com/users/xmrbandit" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
